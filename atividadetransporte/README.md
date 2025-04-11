@@ -26,7 +26,7 @@ A execução segue uma lógica simples: o servidor é iniciado e fica escutando 
 A execução e os testes foram feitos localmente, utilizando `localhost (127.0.0.1)` e a porta `65432`. Os exemplos de terminal incluídos neste README ilustram claramente o comportamento esperado da aplicação.
 
 
-Objetivo
+Objetivo 
 
 Este codigo implementa uma aplicação cliente-servidor em Java utilizando sockets TCP. O objetivo é permitir que um cliente envie mensagens interativas para um servidor, que responde com uma confirmação. A comunicação é encerrada quando o cliente digita "sair".
 
